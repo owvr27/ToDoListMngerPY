@@ -1,0 +1,47 @@
+[
+    {
+        "username": "omar",
+        "password": "9af2921d3fd57fe886c9022d1fcc055d53a79e4032fa6137e397583884e1a5de",
+        "role": "user"
+    },
+    {
+        "username": "admin",
+        "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+        "role": "admin"
+    },
+    {
+        "username": "mekdam",
+        "password": "d06740934dfa5c81780540676bf1ceec5328b4ac827a068c2113b9e5bbd94177",
+        "role": "admin"
+    },
+    {
+        "username": "admin1",
+        "password": "25f43b1486ad95a1398e3eeb3d83bc4010015fcc9bedb35b432e00298d5021f7",
+        "role": "admin"
+    },
+    {
+        "username": "ahmed",
+        "password": "9af2921d3fd57fe886c9022d1fcc055d53a79e4032fa6137e397583884e1a5de",
+        "role": "user"
+    },
+    {
+        "username": "admin",
+        "password": "1ad25d0002690dc02e2708a297d8c9df1f160d376f663309cc261c7c921367e7",
+        "role": "user"
+    },
+    {
+        "username": "2",
+        "password": "21297e6e966afbd06e8f08c4525ae2edcbd3696cc6bc436037e278d4b1e67b4d",
+        "role": "user"
+    },
+    {
+        "username": "admin",
+        "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "role": "user"
+    },
+    {
+        "username": "admin ",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "role": "user"
+    }
+]
